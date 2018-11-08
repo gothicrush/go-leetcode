@@ -16,8 +16,12 @@
 | 26   | 删除排序数组中的重复项    | [解答](https://github.com/gothicrush/go-leetcode/blob/master/1-100/026-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.go) |
 | 27   | 移除元素                  | [解答](https://github.com/gothicrush/go-leetcode/blob/master/1-100/027-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.go) |
 | 35   | 搜索插入位置              | [解答](https://github.com/gothicrush/go-leetcode/blob/master/1-100/035-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.go) |
-| 67   | 二进制求和                |                                                              |
-| 75   | 颜色分类                  |                                                              |
-| 80   | 删除排序数组中的重复项 II |                                                              |
-| 100  | 相同的树                  |                                                              |
+| 66   | 加一                      |                                                              |
+| 67   | 二进制求和                | [解答](https://github.com/gothicrush/go-leetcode/blob/master/1-100/067-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.go) |
+| 71   | 简化路径                  |                                                              |
+| 73   | 矩阵置零                  |                                                              |
+| 75   | 颜色分类                  | [解答](https://github.com/gothicrush/go-leetcode/blob/master/1-100/075-%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.go) |
+| 80   | 删除排序数组中的重复项 II | [解答](https://github.com/gothicrush/go-leetcode/blob/master/1-100/080-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.go) |
+| 94   | 二叉树的中序遍历          |                                                              |
+| 100  | 相同的树                  | [解答](https://github.com/gothicrush/go-leetcode/blob/master/1-100/100-%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.go) |
 
